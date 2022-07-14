@@ -1,6 +1,9 @@
 # NeumorphicUIKitDark
 Dark Neumorphic UI Kit for Power Apps
 
+![dark](https://user-images.githubusercontent.com/86930618/178976055-0dc4ac92-60ea-4d6e-bf75-b674101ba47c.gif)
+
+
 Welcome to the new world of design in Power Apps! This toolkit has been curated using a fusion of out-of-the-box controls and code to extend the existing control set and take your Power Apps UI to the next level!
 
 The toolkit has a number of components which have various properties that you can customise without going into the code itself. If you do however wish to make any adjustments etc., you have the ability to edit the code directly within the application from the Components pane. Please note that this kit is packaged as a canvas app in a .zip file, so you'll need to import it as a Canvas App.
