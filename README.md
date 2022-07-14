@@ -1,4 +1,4 @@
-# NeumorphicUIKitDark
+# Neumorphic UI Kit Dark
 Dark Neumorphic UI Kit for Power Apps
 
 ![dark](https://user-images.githubusercontent.com/86930618/178976055-0dc4ac92-60ea-4d6e-bf75-b674101ba47c.gif)
