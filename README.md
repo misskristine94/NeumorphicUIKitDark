@@ -30,30 +30,30 @@ Button
  
  This control is fully scalable so you can extend them both ways. It has the following properties:
 -	IconName – to make life easier and save you from having to find SVG code online, I have embedded 24most common icons into the button. So all you need to do in this property is type one of the following names of supported icons:
-calendar
-bag  
-basket
-clipboard
-upload
-download
-email
-home
-user
-print
-phone
-trash
-cancel
-edit
-new
-back
-next
-refresh
-filter
-settings
-chart
-notification
-bookmark
-alarm
+calendar,
+bag,  
+basket,
+clipboard,
+upload,
+download,
+email,
+home,
+user,
+print,
+phone,
+trash,
+cancel,
+edit,
+new,
+back,
+next,
+refresh,
+filter,
+settings,
+chart,
+notification,
+bookmark,
+alarm,
 
 -	IconColorActive – this is the colour of the icon if you turn off the lineal gradient property,
 -	IconColour – this is the colour of the icon when you haven’t pressed it,
