@@ -6,7 +6,29 @@ Dark Neumorphic UI Kit for Power Apps
 
 Welcome to the new world of design in Power Apps! This toolkit has been curated using a fusion of out-of-the-box controls and code to extend the existing control set and take your Power Apps UI to the next level!
 
-The toolkit has a number of components which have various properties that you can customise without going into the code itself. If you do however wish to make any adjustments etc., you have the ability to edit the code directly within the application from the Components pane. Please note that this kit is packaged as a canvas app in a .zip file, so you'll need to import it as a Canvas App.
+The toolkit has a number of components which have various properties that you can customise without going into the code itself. If you do however wish to make any adjustments etc., you have the ability to edit the code directly within the application from the Components pane. Please note that this kit is packaged as a canvas app in a .zip file, so you'll need to import it as a Canvas App. Follow these steps to install:
+
+From the menu on the left, navigate to Apps
+
+![image](https://user-images.githubusercontent.com/86930618/179360444-338db42a-25b2-404e-a645-090e225a0513.png)
+
+Then click on 'Import Canvas App'
+
+![image](https://user-images.githubusercontent.com/86930618/179360459-e3cab90d-145b-4589-ae00-e1f5495069c6.png)
+
+Then click on Upload
+
+![image](https://user-images.githubusercontent.com/86930618/179360474-1388c5f8-6211-4d53-9f4c-697e226145ca.png)
+
+Give it a minute or two to process
+
+![image](https://user-images.githubusercontent.com/86930618/179360497-ce1f9eb9-d7b3-47ec-8e69-590ed5c486cb.png)
+
+And then click Import
+
+![image](https://user-images.githubusercontent.com/86930618/179360506-3a6e5ff6-e270-4081-9c57-f1ff9c61b813.png)
+
+
 
 The toolkit comprises of two screens each – these screens allow you to pick the themes of all your controls without having to change them individually. The first screen has lineal gradients, and the second screen allows you to pick and mix. The values of those are kept in the AppOnStart collections including the Default theme which is stored in a variable.
 
